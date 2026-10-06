@@ -1,0 +1,15 @@
+C:\Users\acer\source\repos\c#learning\variables\variables\bin\Debug\net10.0\variables.exe
+C:\Users\acer\source\repos\c#learning\variables\variables\bin\Debug\net10.0\variables.deps.json
+C:\Users\acer\source\repos\c#learning\variables\variables\bin\Debug\net10.0\variables.runtimeconfig.json
+C:\Users\acer\source\repos\c#learning\variables\variables\bin\Debug\net10.0\variables.dll
+C:\Users\acer\source\repos\c#learning\variables\variables\bin\Debug\net10.0\variables.pdb
+C:\Users\acer\source\repos\c#learning\variables\variables\obj\Debug\net10.0\variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\c#learning\variables\variables\obj\Debug\net10.0\variables.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\c#learning\variables\variables\obj\Debug\net10.0\variables.AssemblyInfo.cs
+C:\Users\acer\source\repos\c#learning\variables\variables\obj\Debug\net10.0\variables.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\c#learning\variables\variables\obj\Debug\net10.0\variables.dll
+C:\Users\acer\source\repos\c#learning\variables\variables\obj\Debug\net10.0\refint\variables.dll
+C:\Users\acer\source\repos\c#learning\variables\variables\obj\Debug\net10.0\variables.pdb
+C:\Users\acer\source\repos\c#learning\variables\variables\obj\Debug\net10.0\variables.genruntimeconfig.cache
+C:\Users\acer\source\repos\c#learning\variables\variables\obj\Debug\net10.0\ref\variables.dll
+C:\Users\acer\source\repos\c#learning\variables\variables\obj\Debug\net10.0\variables.csproj.Up2Date
