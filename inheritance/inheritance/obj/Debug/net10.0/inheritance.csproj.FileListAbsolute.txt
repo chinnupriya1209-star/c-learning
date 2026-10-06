@@ -1,0 +1,15 @@
+C:\Users\acer\source\repos\c#learning\inheritance\inheritance\bin\Debug\net10.0\inheritance.exe
+C:\Users\acer\source\repos\c#learning\inheritance\inheritance\bin\Debug\net10.0\inheritance.deps.json
+C:\Users\acer\source\repos\c#learning\inheritance\inheritance\bin\Debug\net10.0\inheritance.runtimeconfig.json
+C:\Users\acer\source\repos\c#learning\inheritance\inheritance\bin\Debug\net10.0\inheritance.dll
+C:\Users\acer\source\repos\c#learning\inheritance\inheritance\bin\Debug\net10.0\inheritance.pdb
+C:\Users\acer\source\repos\c#learning\inheritance\inheritance\obj\Debug\net10.0\inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\c#learning\inheritance\inheritance\obj\Debug\net10.0\inheritance.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\c#learning\inheritance\inheritance\obj\Debug\net10.0\inheritance.AssemblyInfo.cs
+C:\Users\acer\source\repos\c#learning\inheritance\inheritance\obj\Debug\net10.0\inheritance.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\c#learning\inheritance\inheritance\obj\Debug\net10.0\inheritance.dll
+C:\Users\acer\source\repos\c#learning\inheritance\inheritance\obj\Debug\net10.0\refint\inheritance.dll
+C:\Users\acer\source\repos\c#learning\inheritance\inheritance\obj\Debug\net10.0\inheritance.pdb
+C:\Users\acer\source\repos\c#learning\inheritance\inheritance\obj\Debug\net10.0\inheritance.genruntimeconfig.cache
+C:\Users\acer\source\repos\c#learning\inheritance\inheritance\obj\Debug\net10.0\ref\inheritance.dll
+C:\Users\acer\source\repos\c#learning\inheritance\inheritance\obj\Debug\net10.0\inherita.2EE1CFEF.Up2Date

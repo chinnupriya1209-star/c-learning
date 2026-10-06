@@ -1,0 +1,4 @@
+C:\Users\acer\source\repos\c#learning\constructor\constructor\obj\Debug\net10.0\constructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\c#learning\constructor\constructor\obj\Debug\net10.0\constructor.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\c#learning\constructor\constructor\obj\Debug\net10.0\constructor.AssemblyInfo.cs
+C:\Users\acer\source\repos\c#learning\constructor\constructor\obj\Debug\net10.0\constructor.csproj.CoreCompileInputs.cache
