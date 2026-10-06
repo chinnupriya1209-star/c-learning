@@ -1,0 +1,4 @@
+C:\Users\acer\source\repos\c#learning\polymorphism ex2\polymorphism ex2\obj\Debug\net10.0\polymorphism ex2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\c#learning\polymorphism ex2\polymorphism ex2\obj\Debug\net10.0\polymorphism ex2.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\c#learning\polymorphism ex2\polymorphism ex2\obj\Debug\net10.0\polymorphism ex2.AssemblyInfo.cs
+C:\Users\acer\source\repos\c#learning\polymorphism ex2\polymorphism ex2\obj\Debug\net10.0\polymorphism ex2.csproj.CoreCompileInputs.cache
